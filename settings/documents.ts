@@ -37,12 +37,12 @@ export const Documents: Paths[] = [
         href: "/deep",
         items: [
           {
-            title: "System Requirement",
-            href: "/deeper",
-            items: [
-              {
-                title: "Software Requirement",
-                href: "/even-deeper",
+        title: "System Requirement",
+        href: "/deeper",
+        items: [
+          {
+        title: "Software Requirement",
+        href: "/even-deeper",
               },
             ],
           },
