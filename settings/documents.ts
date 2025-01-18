@@ -70,9 +70,9 @@ export const Documents: Paths[] = [
     spacer: true,
   },
   {
-    title: "Markdown",
+    title: "Perancangan Desain Antarmuka",
     href: "/markdown",
-    heading: "Components",
+    heading: "Dokumen design",
     items: [
       {
         title: "Cards",
