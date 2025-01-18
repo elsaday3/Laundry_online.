@@ -104,7 +104,7 @@ export const Documents: Paths[] = [
     items: [
       {
         title: "Metode Waterfall",
-        href: "/installation",
+        href: "/Metode Waterfall",
       },
       {
         title: "Analisis Kebutuhan",
