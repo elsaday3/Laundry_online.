@@ -99,16 +99,16 @@ export const Documents: Paths[] = [
   },
   {
     title: "Metode Pengembangan Perangkat Lunak",
-    href: "/introduction",
+    href: "/table",
     heading: "Getting started",
     items: [
       {
         title: "Metode Waterfall",
-        href: "/Metode Waterfall",
+        href: "/tabs",
       },
       {
         title: "Analisis Kebutuhan",
-        href: "/setup",
+        href: "/steps",
       },
     ],
   },
