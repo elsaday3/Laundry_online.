@@ -12,11 +12,11 @@ export const Documents: Paths[] = [
       },
       {
         title: "Teknologi yang Digunakan",
-        href: "/setup",
+        href: "/Teknologi yang Digunakan",
       },
       {
         title: "description Proyek",
-        href: "/changelog",
+        href: "/description Proyek",
       },
     ],
   },
@@ -30,19 +30,19 @@ export const Documents: Paths[] = [
   },
   {
     title: "Business Requirement",
-    href: "/structure",
+    href: "/Business Requirement",
     items: [
       {
         title: "Stakeholder Requirement",
-        href: "/deep",
+        href: "/Stakeholder Requirement",
         items: [
           {
             title: "System Requirement",
-            href: "/deeper",
+            href: "/System Requirement",
             items: [
               {
                 title: "Software Requirement",
-                href: "/even-deeper",
+                href: "/Software Requirement",
               },
             ],
           },
