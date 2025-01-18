@@ -54,6 +54,10 @@ export const Documents: Paths[] = [
     spacer: true,
   },
   {
+    title: "Diagrams",
+    href: "/diagrams",
+  },
+  {
     title: "Markdown",
     href: "/markdown",
     heading: "Components",
