@@ -55,12 +55,12 @@ export const Documents: Paths[] = [
   },
  {
     title: "Metode Pengembangan Perangkat Lunak",
-    href: "/introduction copy",
+    href: "/lists",
     heading: "Getting started",
     items: [
       {
         title: "Metode Waterfall",
-        href: "/changelog",
+        href: "/maths",
       },
       {
         title: "Analisis Kebutuhan",
