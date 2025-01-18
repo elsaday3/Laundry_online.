@@ -64,7 +64,7 @@ export const Documents: Paths[] = [
       },
       {
         title: "Analisis Kebutuhan",
-        href: "/setup",
+        href: "/card",
       },
     ],
   },
