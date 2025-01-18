@@ -85,16 +85,62 @@ export const Documents: Paths[] = [
     heading: "Getting started",
     items: [
       {
-        title: "Keterkaitan dengan Mata Kuliah",
+        title: "Metode Waterfall",
         href: "/installation",
       },
       {
-        title: "Teknologi yang Digunakan",
+        title: "Analisis Kebutuhan",
         href: "/setup",
       },
+    ],
+  },
+  {
+    spacer: true,
+  },
+  {
+    title: "Dokumentasi Penggunaan Website",
+    href: "/introduction",
+    heading: "Getting started",
+    items: [
       {
-        title: "description Proyek",
-        href: "/changelog",
+        title: "Panduan penggunaan fitur utama dan alur sistem.",
+        href: "/installation",
+      },
+    ],
+  },
+  {
+    spacer: true,
+  },
+  {
+    title: "Metode Pengembangan Perangkat Lunak",
+    href: "/introduction",
+    heading: "Getting started",
+    items: [
+      {
+        title: "Penjelasan metode yang digunakan",
+        href: "/installation",
+      },
+      {
+        title: "Alasan pemilihan metode",
+        href: "/installation",
+      },
+    ],
+  },
+  {
+    spacer: true,
+  },
+  {
+    title: "Kesimpulan dan Saran",
+    href: "/introduction",
+    heading: "Getting started",
+    items: [
+      {
+        title: "Evaluasi Proyek: Ketercapaian tujuan.",
+        href: "/installation",
+      },
+      {
+        title: "Rekomendasi Pengembangan Selanjutnya: Fitur tambahan atau perbaikan.",
+        href: "/installation",
       },
     ],
   },
