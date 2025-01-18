@@ -2,7 +2,7 @@ import { Paths } from "@/lib/pageroutes"
 
 export const Documents: Paths[] = [
   {
-    title: "introduction",
+    title: "Pendahuluan",
     href: "/introduction",
     heading: "Getting started",
     items: [
@@ -12,11 +12,11 @@ export const Documents: Paths[] = [
       },
       {
         title: "Teknologi yang Digunakan",
-        href: "/Teknologi yang Digunakan",
+        href: "/setup",
       },
       {
         title: "description Proyek",
-        href: "/description Proyek",
+        href: "/changelog",
       },
     ],
   },
@@ -30,15 +30,15 @@ export const Documents: Paths[] = [
   },
   {
     title: "Business Requirement",
-    href: "/Business Requirement",
+    href: "/structure",
     items: [
       {
         title: "Stakeholder Requirement",
-        href: "/Stakeholder Requirement",
+        href: "/deeper",
         items: [
           {
             title: "System Requirement",
-            href: "/System Requirement",
+            href: "/even",
             items: [
               {
                 title: "Software Requirement",
