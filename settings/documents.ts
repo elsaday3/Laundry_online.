@@ -79,6 +79,28 @@ export const Documents: Paths[] = [
   {
     spacer: true ,
   },
+  {
+    title: "Metode Pengembangan Perangkat Lunak",
+    href: "/introduction",
+    heading: "Getting started",
+    items: [
+      {
+        title: "Keterkaitan dengan Mata Kuliah",
+        href: "/installation",
+      },
+      {
+        title: "Teknologi yang Digunakan",
+        href: "/setup",
+      },
+      {
+        title: "description Proyek",
+        href: "/changelog",
+      },
+    ],
+  },
+  {
+    spacer: true,
+  },
       {
         title: "Prototipe",
         href: "/filetree",
