@@ -48,14 +48,14 @@ export const Documents: Paths[] = [
           },
         ],
       },
+      {
+        title: "Diagrams",
+        href: "/diagrams",
+      },
     ],
   },
   {
     spacer: true,
-  },
-  {
-    title: "Diagrams",
-    href: "/diagrams",
   },
   {
     title: "Markdown",
