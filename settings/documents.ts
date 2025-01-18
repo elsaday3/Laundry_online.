@@ -53,51 +53,7 @@ export const Documents: Paths[] = [
   {
     spacer: true,
   },
-  {
-    title: "Diagram",
-    href: "/markdown",
-    heading: "Diagram",
-    items: [
-      {
-        title: "Use Case Diagram",
-        href: "/cards",
-      },
-      {
-        title: "Class Diagram",
-        href: "/diagrams",
-      },
-      {
-        title: "Flowchart",
-        href: "/filetree",
-      },
-    ],
-  },
-  {
-    spacer: true ,
-  },
-  {
-    title: "Perancangan Desain Antarmuka",
-    href: "/markdown",
-    heading: "Dokumen design",
-    items: [
-      {
-        title: "Sketsa Awal",
-        href: "/cards",
-      },
-      {
-        title: "Wireframe",
-        href: "/diagrams",
-      },
-      {
-        title: "Prototipe",
-        href: "/filetree",
-      },
-    ],
-  },
-  {
-    spacer: true ,
-  },
-  {
+ {
     title: "Metode Pengembangan Perangkat Lunak",
     href: "/table",
     heading: "Getting started",
