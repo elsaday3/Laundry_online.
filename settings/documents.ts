@@ -29,19 +29,19 @@ export const Documents: Paths[] = [
     heading: "Analisis dan Desain Perangkat Lunak",
   },
   {
-    title: "Structure",
+    title: "Business Requirement",
     href: "/structure",
     items: [
       {
-        title: "Deep",
+        title: "Stakeholder Requirement",
         href: "/deep",
         items: [
           {
-            title: "Deeper",
+            title: "System Requirement",
             href: "/deeper",
             items: [
               {
-                title: "Even deeper",
+                title: "Software Requirement",
                 href: "/even-deeper",
               },
             ],
