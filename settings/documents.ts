@@ -63,7 +63,7 @@ export const Documents: Paths[] = [
     heading: "Dokumen design",
     items: [
       {
-        title: "Cards",
+        title: "Sketsa Awal",
         href: "/cards",
       },
       {
